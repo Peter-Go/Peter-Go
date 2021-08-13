@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Peter-Go
+- 👀 I’m interested in making life simppler for my IT support guys
+- 🌱 I’m currently learning Powershell, C#, Python
+- 📫 IF you use any of my code, drop me a line to let me know what your doing, i'd be very interested.
